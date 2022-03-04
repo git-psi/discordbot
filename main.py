@@ -203,4 +203,4 @@ bot.load_extension("music_commands")
 bot.load_extension("moderation_commands")
 bot.load_extension("help_command")
 
-bot.run("OTEzNDc0OTkyNjA2NDEyODMw.YZ_B4Q.KnyFGVtGLpDFSTn5pZxmbDvmL8k")
+bot.run("The token of the bot is here")
